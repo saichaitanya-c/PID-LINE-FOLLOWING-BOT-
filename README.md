@@ -15,6 +15,9 @@ This code is designed to control a line-following robot using a PID (Proportiona
 
 
 
+https://github.com/user-attachments/assets/1d4ab062-9dff-41eb-ac13-071c1bcc9d93
+
+
 ### Theory of Operation
 
 1. **Sensor Inputs**:
