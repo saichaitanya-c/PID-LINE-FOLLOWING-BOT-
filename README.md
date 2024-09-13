@@ -1,4 +1,6 @@
 # PID-LINE-FOLLOWING-BOT
+
+
 A PID line following robot with 2 IR sensors is a compact and effective design for basic line tracking applications. The robot uses two infrared sensors mounted at the front, positioned to straddle the line being followed. These sensors detect the contrast between the line (usually black) and the background surface (typically white). The heart of the system is a PID (Proportional-Integral-Derivative) algorithm that calculates motor speeds based on the sensor readings. The error, usually defined as the difference between the two sensor readings, is used by the PID controller to adjust the speeds of the left and right motors, allowing for smooth corrections to keep the robot on the line.
 
 **Line-Following Robot**:
